@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+  <rect width="1000" height="620" fill="#17211e"/>
+  <circle cx="780" cy="300" r="280" fill="#8ce0c1" opacity=".08"/>
+  <rect x="150" y="45" width="320" height="530" rx="44" fill="#0c1110" stroke="#53645b" stroke-width="3"/>
+  <rect x="169" y="68" width="282" height="484" rx="30" fill="#18221f"/>
+  <rect x="268" y="82" width="83" height="8" rx="4" fill="#53645b"/>
+  <rect x="190" y="112" width="240" height="190" rx="20" fill="#23342c"/>
+  <path d="M215 263c51-42 65-10 100-65s67 1 98-57" fill="none" stroke="#8ce0c1" stroke-width="4" opacity=".8"/>
+  <circle cx="317" cy="198" r="12" fill="#8ce0c1"/><circle cx="317" cy="198" r="22" fill="#8ce0c1" opacity=".2"/>
+  <path d="M250 170c0-17 13-30 30-30s30 13 30 30c0 25-30 50-30 50s-30-25-30-50Z" fill="#8ce0c1"/>
+  <circle cx="280" cy="170" r="9" fill="#17211e"/>
+  <text x="195" y="340" fill="#8ce0c1" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">EN ÉCOUTE</text>
+  <text x="195" y="374" fill="#f2f5f2" font-family="Arial,sans-serif" font-size="24" font-weight="700">Les ruelles de la médina</text>
+  <text x="195" y="399" fill="#9aa8a2" font-family="Arial,sans-serif" font-size="14">Guide audio · 08:42</text>
+  <rect x="195" y="427" width="230" height="4" rx="2" fill="#405149"/><rect x="195" y="427" width="95" height="4" rx="2" fill="#8ce0c1"/>
+  <g fill="#8ce0c1"><circle cx="211" cy="478" r="3"/><circle cx="226" cy="470" r="4"/><circle cx="242" cy="458" r="5"/><circle cx="258" cy="466" r="4"/><circle cx="274" cy="478" r="3"/><circle cx="290" cy="471" r="4"/><circle cx="306" cy="455" r="6"/><circle cx="322" cy="466" r="4"/><circle cx="338" cy="477" r="3"/><circle cx="354" cy="470" r="4"/><circle cx="370" cy="461" r="5"/><circle cx="386" cy="474" r="3"/><circle cx="402" cy="467" r="4"/></g>
+  <circle cx="310" cy="518" r="24" fill="#8ce0c1"/><path d="m305 506 15 12-15 12Z" fill="#0c1110"/>
+  <text x="545" y="208" fill="#8ce0c1" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">DÉCOUVRIR AUTREMENT</text>
+  <text x="540" y="276" fill="#f2f5f2" font-family="Arial,sans-serif" font-size="48" font-weight="700">Écouter.</text>
+  <text x="540" y="332" fill="#f2f5f2" font-family="Arial,sans-serif" font-size="48" font-weight="700">Explorer.</text>
+  <text x="540" y="395" fill="#9aa8a2" font-family="Arial,sans-serif" font-size="19">Un compagnon audio pour les</text>
+  <text x="540" y="425" fill="#9aa8a2" font-family="Arial,sans-serif" font-size="19">voyageurs et leurs guides.</text>
+</svg>

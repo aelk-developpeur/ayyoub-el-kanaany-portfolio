@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+  <rect width="1000" height="620" fill="#17211e"/>
+  <circle cx="820" cy="75" r="300" fill="#8ce0c1" opacity=".08"/>
+  <rect x="70" y="68" width="860" height="484" rx="26" fill="#0c1110" stroke="#43534b"/>
+  <rect x="70" y="68" width="860" height="58" rx="26" fill="#18221f"/>
+  <circle cx="103" cy="97" r="6" fill="#8ce0c1"/><circle cx="125" cy="97" r="6" fill="#62736a"/><circle cx="147" cy="97" r="6" fill="#62736a"/>
+  <rect x="100" y="157" width="190" height="366" rx="14" fill="#121a18"/>
+  <rect x="122" y="184" width="120" height="10" rx="5" fill="#8ce0c1"/>
+  <rect x="122" y="220" width="136" height="8" rx="4" fill="#506058"/><rect x="122" y="250" width="112" height="8" rx="4" fill="#506058"/>
+  <rect x="122" y="280" width="132" height="8" rx="4" fill="#506058"/><rect x="122" y="310" width="96" height="8" rx="4" fill="#506058"/>
+  <text x="325" y="188" fill="#eaf4ee" font-family="Arial,sans-serif" font-size="28" font-weight="700">Vue d’ensemble</text>
+  <text x="325" y="218" fill="#819088" font-family="Arial,sans-serif" font-size="14">Activité de la plateforme</text>
+  <rect x="325" y="244" width="170" height="96" rx="14" fill="#18221f" stroke="#34433b"/>
+  <rect x="514" y="244" width="170" height="96" rx="14" fill="#18221f" stroke="#34433b"/>
+  <rect x="703" y="244" width="190" height="96" rx="14" fill="#18221f" stroke="#34433b"/>
+  <text x="345" y="277" fill="#8f9e96" font-family="Arial,sans-serif" font-size="13">Dossiers actifs</text><text x="345" y="318" fill="#8ce0c1" font-family="Arial,sans-serif" font-size="30" font-weight="700">1 284</text>
+  <text x="534" y="277" fill="#8f9e96" font-family="Arial,sans-serif" font-size="13">En traitement</text><text x="534" y="318" fill="#8ce0c1" font-family="Arial,sans-serif" font-size="30" font-weight="700">342</text>
+  <text x="723" y="277" fill="#8f9e96" font-family="Arial,sans-serif" font-size="13">Disponibilité</text><text x="723" y="318" fill="#8ce0c1" font-family="Arial,sans-serif" font-size="30" font-weight="700">99,9 %</text>
+  <rect x="325" y="362" width="568" height="160" rx="14" fill="#121a18"/>
+  <path d="M350 478c54-5 55-62 111-45s65 21 112-18 61 19 112-22 69-2 89-30" fill="none" stroke="#8ce0c1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M350 478c54-5 55-62 111-45s65 21 112-18 61 19 112-22 69-2 89-30v116H350Z" fill="#8ce0c1" opacity=".08"/>
+  <g stroke="#34433b" stroke-dasharray="4 7"><path d="M350 410h510"/><path d="M350 445h510"/><path d="M350 480h510"/></g>
+</svg>
